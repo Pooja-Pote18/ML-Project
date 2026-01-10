@@ -18,4 +18,7 @@ Tech Stack: Python, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib, Seaborn
 
 ✅ Accurate prediction of survival with clear data-driven insights.
 
-✅ Model Accuracy: 80.42%
+✅ Model Accuracy: 80.42%                                                                     
+
+
+![image alt](https://github.com/Pooja-Pote18/ML-Project/blob/9359de7a158f410450f9c62d797ba8e4a5498dd8/titanic_data%20dashboard.PNG)
